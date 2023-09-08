@@ -98,4 +98,45 @@ no changes added to commit (use "git add" and/or "git commit -a")
 dhawley@pu1:~/2400/git-lab$ 
 
 Question Ten:
- 
+dhawley@pu1:~/2400/git-lab$ vi README.md
+
+Github Username: dh438016
+Full Name: Frank Hawley
+
+Email: dh438016@ohio.edu
+
+To the Teaching Assisstant,
+
+This message was updated in a command line editor within pu1.cs.ohio.edu 
+
+**
+As you can see the changed were not reflected in the local git. since we are missing a line after pu1.cs.ohio.edu
+
+Question Eleven:
+To https://github.com/dh438016/git-lab.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/dh438016/git-lab.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+The push did not go through because the online version contains information not found in the local version.
+
+Question Twelve:
+dhawley@pu1:~/2400/git-lab$ vi README.md
+
+Github Username: dh438016
+Full Name: Frank Hawley
+
+Email: dh438016@ohio.edu
+
+To the Teaching Assisstant,
+
+This message was updated in a command line editor within pu1.cs.ohio.edu
+
+
+CS 2400 Lab Section 104
+
+Yes you can see the changes were made as the Class and lab section data is present now.

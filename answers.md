@@ -140,3 +140,13 @@ This message was updated in a command line editor within pu1.cs.ohio.edu
 CS 2400 Lab Section 104
 
 Yes you can see the changes were made as the Class and lab section data is present now.
+
+Question Thirteen:
+dhawley@pu1:~/2400/git-lab-2$ ls -al
+total 20
+drwxr-xr-x  3 dhawley students 4096 Sep  8 14:44 .
+drwxr-xr-x 18 dhawley students 4096 Sep  8 14:44 ..
+drwxr-xr-x  8 dhawley students 4096 Sep  8 14:44 .git
+-rw-r--r--  1 dhawley students  270 Sep  8 14:44 .gitignore
+-rw-r--r--  1 dhawley students   11 Sep  8 14:44 README.md
+dhawley@pu1:~/2400/git-lab-2$ 
